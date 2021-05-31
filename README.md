@@ -9,3 +9,5 @@ Here is a picture of how it's supposed to look
 ![Monopoly Game](Monopoly.png)
 
 The code is in the folder Monopoly>src>monopoly
+
+Run the Monopoly,jar file to play the game
